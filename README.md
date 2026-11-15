@@ -1,3 +1,29 @@
+# everything
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+We're rebuilding and open-sourcing the world’s software from scratch.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+从零重建并开源世界上各类软件。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center"><img src="assets/everything.png" width="300" alt="Everything"></p>
 
 <h3 align="center">The world’s software. Rebuilt, and open-sourced.</h3>
